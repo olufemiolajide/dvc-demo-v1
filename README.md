@@ -52,6 +52,8 @@ git branch -M main
 git push origin main
 ```
 
+create a get_data.py in src
+
 tox command -
 ```bash
 tox
