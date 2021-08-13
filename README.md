@@ -43,8 +43,11 @@ oneliner updates  for readme
 ```bash
 git add . && git commit -m "update Readme.md"
 ```
+
+create a new github repository 
+
 ```bash
-git remote add origin https://github.com/c17hawke/simple-dvc-demo.git
+git remote add origin https://github.com/olufemiolajide/dvc-demo-v1.git
 git branch -M main
 git push origin main
 ```
