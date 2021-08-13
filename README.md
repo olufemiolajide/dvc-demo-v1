@@ -52,7 +52,15 @@ git branch -M main
 git push origin main
 ```
 
-create a get_data.py in src
+#create a get_data.py in src
+
+##develop get_data.py script
+
+git add . && git commit -m "add get data"  
+git push origin main      
+
+# Create load_data.py in src
+
 
 tox command -
 ```bash
